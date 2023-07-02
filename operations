@@ -1,0 +1,2 @@
+mkdir <folder> creates a folder
+rm -r <folder>  // removes everything in the folder including child folders
