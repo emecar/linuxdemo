@@ -1,0 +1,16 @@
+===============VI===================
+vi test.txt
+i - insert mode - enables typing
+esc - command mode - disables typing
+
+
+esc + :wq - Save and quit
+esc + :q! - Quit and discard changes
+
+=================Nano==============
+nano test.txt
+ctrl + o  -Save
+enter 	  - Quit
+
+ctrl + x - Quit
+No	 - discard changes
